@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FrontEndMentor-SinglePriceGridComponent/static/css/main.317bb3d0.css",
+    "main.js": "/FrontEndMentor-SinglePriceGridComponent/static/js/main.fedb7ef1.js",
+    "static/js/453.be904665.chunk.js": "/FrontEndMentor-SinglePriceGridComponent/static/js/453.be904665.chunk.js",
+    "index.html": "/FrontEndMentor-SinglePriceGridComponent/index.html",
+    "main.317bb3d0.css.map": "/FrontEndMentor-SinglePriceGridComponent/static/css/main.317bb3d0.css.map",
+    "main.fedb7ef1.js.map": "/FrontEndMentor-SinglePriceGridComponent/static/js/main.fedb7ef1.js.map",
+    "453.be904665.chunk.js.map": "/FrontEndMentor-SinglePriceGridComponent/static/js/453.be904665.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.317bb3d0.css",
+    "static/js/main.fedb7ef1.js"
+  ]
+}
